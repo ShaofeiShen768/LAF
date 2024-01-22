@@ -25,7 +25,7 @@ The records of training loss have been stored in Training folder.
 
 ## License
 
-This project is under the MIT license. See [LICENSE](LICENSE) for details.
+This project is under the MIT license. See [LICENSE](License) for details.
 
 ## Citation
 
