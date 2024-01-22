@@ -19,7 +19,7 @@ The data folder includes the experiment data on Mnist, Fashion-Mnist, Cifar10 an
 
 The hyperparameters for each scenario are recorded in the [hyperparameter.md](hyperparameter.md) file for different models and datasets.
 
-You run the [LAF.ipynb](LAF.ipynb) file to reproduce the reported results.
+You can run the [LAF.ipynb](LAF.ipynb) file to reproduce the reported results.
 
 The records of training loss have been stored in [Training](Training) folder.
 
