@@ -32,4 +32,10 @@ This project is under the MIT license. See [LICENSE](License) for details.
 
 ## Citation
 
-TBD
+@inproceedings{  
+shen2024labelagnostic,  
+title={Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models},  
+author={Shaofei Shen and Chenhao Zhang and Yawen Zhao and Alina Bialkowski and Weitong Tony Chen and Miao Xu},  
+booktitle={The Twelfth International Conference on Learning Representations},  
+year={2024},  
+}
